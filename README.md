@@ -7,4 +7,4 @@
 ### Sobre mim
 Sou um desenvolvedor backend, atualmente trabalhando em um projeto da plataforma de e-commerce no [@Magazord](https://www.magazord.com.br/), utilizando como principal linguagem o PHP.
 
-Buscando aprender: Frontend, DevOps e Mobile. PS: Em busca do FullStack :rocket:
+Buscando aprender: Frontend, DevOps e um pouco de Mobile. PS: Em busca do FullStack :rocket:
