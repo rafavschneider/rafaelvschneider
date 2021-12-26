@@ -8,5 +8,7 @@
 Sou um desenvolvedor backend, atualmente trabalhando em um projeto da plataforma de e-commerce no [@Magazord](https://www.magazord.com.br/), utilizando como principal linguagem o PHP.
 
 Buscando aprender mais sobre Frontend e Devops para me tornar um desenvolvedor Fullstack :rocket:
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelvschneider&show_icons=true&hide_title=true&hide_rank=true&count_private=true&include_all_commits=true&theme=dracula)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvschneider&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvschneider&layout=compact&langs_count=7&theme=dracula"/>
+</div>
