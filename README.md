@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rafaelvschneider@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelvschneider@gmail.com)](mailto:rafaelvschneider@gmail.com)
 
 ### Sobre mim
-Sou um desenvolvedor backend, atualmente trabalhando em um projeto da plataforma de e-commerce no [@Magazord](https://www.magazord.com.br/), utilizando como principal linguagem o PHP.
+Sou um desenvolvedor backend, atualmente trabalhando na [Meta](https://www.meta.com.br), utilizando como principais tecnologias Javascript/Node.JS e PHP.
 
 Buscando aprender mais sobre Frontend e Devops para me tornar um desenvolvedor Fullstack :rocket:
 <div align="center">
